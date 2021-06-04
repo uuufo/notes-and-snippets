@@ -1,0 +1,2 @@
+git reset --soft HEAD^ (HEAD~1, HEAD~2, etc.) // resets local
+git push origin +BRANCH_NAME // forces push to GitHub
